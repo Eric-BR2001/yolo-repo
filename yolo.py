@@ -1,1 +1,1 @@
-print('YOLO Trophy Unlocked!')
+print('Pair Extraordinaire')
